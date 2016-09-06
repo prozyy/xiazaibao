@@ -3,7 +3,7 @@
 
 ### 刷机步骤：
 1.  到software文件夹下下载自己想刷的固件
-2.  http://IP:81/upgrade.do， IP改成自己的下载宝IP
+2.  浏览器打开http://IP:81/upgrade.do， IP改成自己的下载宝IP
 3.  上传下载的固件，点击应用等待完成刷机
 
 ###  使用transmission
